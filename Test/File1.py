@@ -1,4 +1,4 @@
-def count_to_five():
-    list = [1, 2, 3, 4, 5]
+def count_to_six():
+    list = [1, 2, 3, 4, 5, 6]
     for number in list:
         print(number)
